@@ -1,0 +1,6 @@
+framework module PDDISVSDK {
+  umbrella header "PDDISVSDK.h"
+
+  export *
+  module * { export * }
+}
